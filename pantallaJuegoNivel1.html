@@ -77,11 +77,11 @@
           localStorage.setItem('tiempoAct', n)
           // console.log(n)
 
-          if (localStorage.getItem('totalesRecoleccion') == '7') {
+          if (localStorage.getItem('totalesRecoleccion') == '1') {
             clearInterval(x)
             $('.modalitoWin').css('display', 'block')
           } else {
-            if (n == 90 && localStorage.getItem('totalesRecoleccion') < '7') {
+            if (n == 120 && localStorage.getItem('totalesRecoleccion') < '7') {
               $('.modalito').css('display', 'block')
               traerPuntuacion()
             }
