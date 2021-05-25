@@ -25,19 +25,19 @@
 }
 
 .mi-cursor {
-    cursor:url(./recursos/cursorunengrane.png), auto !important;
+    cursor:url(https://cynthiatr.github.io/recursos/cursorunengrane.png), auto !important;
 }
 
 .aiuda:hover {             
-    cursor:url(./recursos/cursorclickengrane.png), auto !important;
+    cursor:url(https://cynthiatr.github.io/recursos/cursorclickengrane.png), auto !important;
  }
 
  body {
-    background-image: url(./recursos/FONDO.jpg);
+    background-image: url(https://cynthiatr.github.io/recursos/FONDO.jpg);
     background-size:50%
  }
  .btnInicio {
-    background-image: url(./recursos/Btn_iniciar.png);
+    background-image: url(https://cynthiatr.github.io/recursos/Btn_iniciar.png);
     width: 292px;
     height: 67px;
     /* border: 2px solid red; */
@@ -50,33 +50,33 @@
  }
 
  #inicioJuego{
-    background-image: url(./recursos/Btn_Listo.png);
+    background-image: url(https://cynthiatr.github.io/recursos/Btn_Listo.png);
     width: 236px;
     height: 54px;
     border-radius: 12px;
  }
 
  #Pause{
-    background-image: url(./recursos/pauseabtn.png);
+    background-image: url(https://cynthiatr.github.io/recursos/pauseabtn.png);
     width: 200px;
     height: 47px;
     border-radius: 12px;
  }
 
  #btn_Reanudar{
-    background-image: url(./recursos/BTN_REANUDAR.png);
+    background-image: url(https://cynthiatr.github.io/recursos/BTN_REANUDAR.png);
     width: 255px;
     height: 57px;
     border-radius: 12px;
  }
  #btn_Reiniciar{
-    background-image: url(./recursos/BTN_REINICIAR.png);
+    background-image: url(https://cynthiatr.github.io/recursos/BTN_REINICIAR.png);
     width: 255px;
     height: 57px;
     border-radius: 12px;
  }
  #btn_Salir{
-    background-image: url(./recursos/BTN_SALIR.png  );
+    background-image: url(https://cynthiatr.github.io/recursos/BTN_SALIR.png  );
     width: 255px;
     height: 57px;
     border-radius: 12px;
