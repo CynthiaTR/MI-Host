@@ -15,7 +15,7 @@ var ganaste = false
 var nivel1 = true
 var nivel2 = false
 var nivel3 = false
-// Aqui empieza mi mugrego de pruebas----------------------------------------------------------------------------------------------------------------
+// Aqui empieza mi mugrego de pruebas huehue----------------------------------------------------------------------------------------------------------------
 let salto = false,
   y1,
   vi,
